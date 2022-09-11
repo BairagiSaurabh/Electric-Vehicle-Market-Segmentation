@@ -31,10 +31,10 @@ This datset consists of vehcile specifications such as its range, efficiency, to
 
 ## Some Visualizations:
 
-![1](EV.png)
+![1](EV.PNG)
 
 ![2](table_chart.png)
 
-![3](cluster1.png)
+![3](cluster1.PNG)
 
-![4](cluster2.png)
+![4](cluster2.PNG)
