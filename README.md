@@ -18,3 +18,11 @@ Targetted Vehicle Space: Cycle, Car, Moped, E- Rickshaw
 This segmentation talks about the marital status, age, salary and the preferred price of EV. Based on the clusters formed here we have 2 segments:
 Segment 1 : These are wealthy people which can buy costly and premium Electric Vehicles.
 Segment 2: These are people who woul opt for eco and budget friendly Electric Vehicles.
+
+## Vehicle Specification Segmentation
+
+This datset consists of vehcile specifications such as its range, efficiency, top speed and the type of drive. 
+
+## Contributors 
+@Haseebae
+@Pratiksha228
