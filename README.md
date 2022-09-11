@@ -26,8 +26,8 @@ Segment 2: These are people who woul opt for eco and budget friendly Electric Ve
 This datset consists of vehcile specifications such as its range, efficiency, top speed and the type of drive. 
 
 ## Contributors 
-@ Haseebae
-@ Pratiksha Rale
+@Haseebae
+@Pratiksha Rale
 
 ## Some Visualizations:
 
