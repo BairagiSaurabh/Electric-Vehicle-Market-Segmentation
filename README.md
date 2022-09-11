@@ -28,3 +28,13 @@ This datset consists of vehcile specifications such as its range, efficiency, to
 ## Contributors 
 @ Haseebae
 @ Pratiksha Rale
+
+## Some Visualizations:
+
+![1](EV.png)
+
+![2](group_bar_.png)
+
+![3](cluster1.png)
+
+![4](cluster2.png)
