@@ -27,7 +27,7 @@ This datset consists of vehcile specifications such as its range, efficiency, to
 
 ## Contributors 
 [@Haseebae](https://github.com/Haseebae)
-@Pratiksha Rale
+[@Pratiksha Rale](https://github.com/Pratiksha228)
 
 ## Some Visualizations:
 
