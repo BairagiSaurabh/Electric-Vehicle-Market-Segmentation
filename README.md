@@ -33,7 +33,7 @@ This datset consists of vehcile specifications such as its range, efficiency, to
 
 ![1](EV.png)
 
-![2](group_bar_.png)
+![2](table_chart.png)
 
 ![3](cluster1.png)
 
